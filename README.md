@@ -64,14 +64,6 @@ Make sure you have Python 3 and pip installed on your system.
     ```
 2.  In the browser window that opens, navigate to and open the `analysis.ipynb` file (or your notebook's name) to view the code, visualizations, and detailed findings.
 
-## 📂 File Structure
-```
-.
-├── imdb_clean.csv      # Cleaned dataset used for analysis
-├── analysis.ipynb      # Jupyter Notebook with all code and analysis
-├── README.md           # Project documentation (this file)
-└── requirements.txt    # (Recommended) List of project dependencies
-```
 
 ## 👤 Author
 
