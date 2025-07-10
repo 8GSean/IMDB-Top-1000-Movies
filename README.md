@@ -5,8 +5,8 @@
 This project analyzes the IMDb Top 1000 films dataset to uncover patterns in audience ratings, critical reviews, and box office performance. The analysis explores how factors like genre and director influence a film's reception, identifies trends over time, and examines the relationship between artistic quality and commercial success.
 
 ### Key Visualization
-*(It's a great idea to add a compelling chart from your analysis here, like a genre comparison or a timeline plot.)*
-`![Ratings vs. Gross Revenue](path/to/your/visualization.png)`
+![image](https://github.com/user-attachments/assets/81f7f1fd-ddb0-4af9-b85b-cad0bb83a377)
+
 
 ## 🎯 Project Overview
 
@@ -76,9 +76,3 @@ Make sure you have Python 3 and pip installed on your system.
 ## 👤 Author
 
 **Shira Shenhav**
-- GitHub: `[@your-github-username](https://github.com/your-github-username)`
-- LinkedIn: `[Your Name](https://www.linkedin.com/in/your-profile/)`
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
